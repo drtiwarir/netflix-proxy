@@ -277,3 +277,53 @@ zone "bbci.co.uk." {
         type master;
         file "/data/db.override";
 };
+
+zone "hotstar.com.in." {
+        type master;
+        file "/data/db.override";
+};
+
+zone "sonyliv.com." {
+        type master;
+        file "/data/db.override";
+};
+
+zone "zee5.com." {
+        type master;
+        file "/data/db.override";
+};
+
+zone "watch.tatasky.com." {
+        type master;
+        file "/data/db.override";
+};
+
+zone "voot.com." {
+        type master;
+        file "/data/db.override";
+};
+
+zone "erosnow.com." {
+        type master;
+        file "/data/db.override";
+};
+
+zone "youtube.com.in." {
+        type master;
+        file "/data/db.override";
+};
+
+zone "mxplayer.in." {
+        type master;
+        file "/data/db.override";
+};
+
+zone "tvfplay.com." {
+        type master;
+        file "/data/db.override";
+};
+
+zone "airtelxstream.in." {
+        type master;
+        file "/data/db.override";
+};
